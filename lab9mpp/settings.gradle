@@ -1,0 +1,5 @@
+rootProject.name = 'lab9mpp'
+include 'common'
+include 'server'
+include 'client'
+
